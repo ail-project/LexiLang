@@ -82,6 +82,14 @@ This detector was designed for handling small texts (< 150 characters). It will 
 
 If you want to add a new language, or improve an existing one, add more words to the respective dictionary in the `dictionaries` folder.
 
+
+## Funding on the AI capabilities
+
+[AIPITCH](https://www.linkedin.com/company/aipitch)(AI-Powered Innovative Toolkit for Cybersecurity Hubs) is a co-funded EU project supported by the European Cybersecurity Competence Centre (ECCC) under the DIGITAL-ECCC-2024-DEPLOY-CYBER-06-ENABLINGTECH program and [CIRCL](https://www.circl.lu).
+
+The project brings together an international consortium to develop AI-based tools that enhance the capabilities of operational cybersecurity teams. These tools are designed to support critical services, with a focus on national security teams, while also being applicable to internal security teams in companies and institutions.
+
+
 ## License
 
 AGPLv3
